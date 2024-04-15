@@ -3,10 +3,12 @@
 Filipe Custodio Gonçalves, Gustavo Henrique Moraes Rocillo, João Lucas dos Anjos Pinto e Yuri Telis Garcia
 
 ## Fases
-Fase Memorial: Gustavo e Yuri
-Fase Baixo Augusta: João Lucas e Filipe.
-Fase Estrada Velha de Santos: Gustavo e Yuri.
-Fase Minhocão: João Lucas e Filipe.
+<ul>
+    <li> <b> Fase Memorial:</b> Gustavo e Yuri. </li>
+    <li> <b> Fase Baixo Augusta:</b> João Lucas e Filipe. </li>
+    <li> <b> Fase Estrada Velha de Santos:</b> Gustavo e Yuri. </li>
+    <li> <b> Fase Minhocão:</b> João Lucas e Filipe. </li>
+</ul>
 
 ## Wiki
 <ul>
