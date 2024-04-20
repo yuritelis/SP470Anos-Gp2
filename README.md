@@ -2,7 +2,7 @@
 ## Autores
 Filipe Custodio Gonçalves, Gustavo Henrique Moraes Rocillo, João Lucas dos Anjos Pinto e Yuri Telis Garcia
 
-## Fases
+## Produção das Fases
 <ul>
     <li> <b> Fase Memorial:</b> Gustavo e Yuri. </li>
     <li> <b> Fase Baixo Augusta:</b> João Lucas e Filipe. </li>
