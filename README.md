@@ -1,5 +1,5 @@
 # PROJETO 470 ANOS DE SÃO PAULO
-## Duplas Originais
+## Duplas - 1° Bimestre
 <ul>
 <li> Filipe Custodio Gonçalves e João Lucas dos Anjos Pinto </li>
 <li> Gustavo Henrique Moraes Rocillo e Yuri Telis Garcia </li>
@@ -13,7 +13,7 @@
     <li> <b> Fase Minhocão:</b> João Lucas e Filipe. </li>
 </ul>
 
-## Duplas Atuais
+## Duplas - 2° Bimestre
 <ul>
 <li> João Lucas dos Anjos Pinto e Gabriele Batista Sousa </li>
 <li> Robert Caio Gomes Mota e Yuri Telis Garcia </li>
