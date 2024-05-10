@@ -1,13 +1,22 @@
 # PROJETO 470 ANOS DE SÃO PAULO
-## Autores
-Filipe Custodio Gonçalves, Gustavo Henrique Moraes Rocillo, João Lucas dos Anjos Pinto e Yuri Telis Garcia
+## Duplas Originais
+<ul>
+<li> Filipe Custodio Gonçalves e João Lucas dos Anjos Pinto </li>
+<li> Gustavo Henrique Moraes Rocillo e Yuri Telis Garcia </li>
+</ul>
 
-## Produção das Fases
+## Produção das Fases Original
 <ul>
     <li> <b> Fase Memorial:</b> Gustavo e Yuri. </li>
     <li> <b> Fase Baixo Augusta:</b> João Lucas e Filipe. </li>
     <li> <b> Fase Estrada Velha de Santos:</b> Gustavo e Yuri. </li>
     <li> <b> Fase Minhocão:</b> João Lucas e Filipe. </li>
+</ul>
+
+## Duplas Atuais
+<ul>
+<li> João Lucas dos Anjos Pinto e Gabriele Batista Sousa </li>
+<li> Robert Caio Gomes Mota e Yuri Telis Garcia </li>
 </ul>
 
 ## Wiki
