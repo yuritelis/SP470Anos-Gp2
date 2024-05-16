@@ -1,22 +1,30 @@
 # PROJETO 470 ANOS DE SÃO PAULO
 ## Duplas - 1° Bimestre
 <ul>
-<li> Filipe Custodio Gonçalves e João Lucas dos Anjos Pinto </li>
-<li> Gustavo Henrique Moraes Rocillo e Yuri Telis Garcia </li>
+    <li> Filipe Custodio Gonçalves e João Lucas dos Anjos Pinto </li>
+    <li> Gustavo Henrique Moraes Rocillo e Yuri Telis Garcia </li>
 </ul>
 
 ## Produção das Fases Original
 <ul>
-    <li> <b> Fase Memorial:</b> . </li>
-    <li> <b> Fase Baixo Augusta:</b>  </li>
-    <li> <b> Fase Estrada Velha de Santos:</b>  </li>
-    <li> <b> Fase Minhocão:</b>  </li>
+    <li> <b> Fase Memorial:</b> Gustavo e Yuri. </li>
+    <li> <b> Fase Baixo Augusta:</b> João Lucas e Filipe. </li>
+    <li> <b> Fase Estrada Velha de Santos:</b> Gustavo e Yuri. </li>
+    <li> <b> Fase Minhocão:</b> João Lucas e Filipe. </li>
 </ul>
 
 ## Duplas - 2° Bimestre
 <ul>
 <li> João Lucas dos Anjos Pinto e Gabriele Batista Sousa </li>
 <li> Robert Caio Gomes Mota e Yuri Telis Garcia </li>
+</ul>
+
+## Produção das Fases Original
+<ul>
+    <li> <b> Fase Memorial: </b> a decidir </li>
+    <li> <b> Fase Baixo Augusta: </b> a decidir </li>
+    <li> <b> Fase Estrada Velha de Santos: </b> a decidir </li>
+    <li> <b> Fase Minhocão: </b> a decidir </li>
 </ul>
 
 ## Wiki
