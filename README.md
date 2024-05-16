@@ -7,10 +7,10 @@
 
 ## Produção das Fases Original
 <ul>
-    <li> <b> Fase Memorial:</b> Gustavo e Yuri. </li>
-    <li> <b> Fase Baixo Augusta:</b> João Lucas e Filipe. </li>
-    <li> <b> Fase Estrada Velha de Santos:</b> Gustavo e Yuri. </li>
-    <li> <b> Fase Minhocão:</b> João Lucas e Filipe. </li>
+    <li> <b> Fase Memorial:</b> . </li>
+    <li> <b> Fase Baixo Augusta:</b>  </li>
+    <li> <b> Fase Estrada Velha de Santos:</b>  </li>
+    <li> <b> Fase Minhocão:</b>  </li>
 </ul>
 
 ## Duplas - 2° Bimestre
