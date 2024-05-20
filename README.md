@@ -37,5 +37,5 @@
     <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Roteiro"> Roteiro </a> </li>
     <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Refer%C3%AAncias"> Referências </a> </li>
     <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Concept-art-‐-Cenarios"> Concept Arts Cenario </a> </li>
-    <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Concept-Arts-‐-personagens"> Concept Arts Cenario </a> </li>
+    <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Concept-Arts-‐-personagens"> Concept Arts personagens</a> </li>
 </ul>
