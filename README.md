@@ -21,10 +21,10 @@
 
 ## Produção das Fases Original
 <ul>
-    <li> <b> Fase Memorial: </b> a decidir </li>
-    <li> <b> Fase Baixo Augusta: </b> a decidir </li>
-    <li> <b> Fase Estrada Velha de Santos: </b> a decidir </li>
-    <li> <b> Fase Minhocão: </b> a decidir </li>
+    <li> <b> Fase Memorial: </b> João Lucas e Gabriele. </li>
+    <li> <b> Fase Baixo Augusta: </b> Robert e Yuri. </li>
+    <li> <b> Fase Estrada Velha de Santos: </b> João Lucas e Gabriele. </li>
+    <li> <b> Fase Minhocão: </b> Robert e Yuri. </li>
 </ul>
 
 ## Wiki
