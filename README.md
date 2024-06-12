@@ -38,4 +38,5 @@
     <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Refer%C3%AAncias"> Referências </a> </li>
     <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Concept-art-‐-Cenarios"> Concept Arts Cenario </a> </li>
     <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Concept-Arts-‐-personagens"> Concept Arts personagens</a> </li>
+    <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Desenvolvimento-Fase-3-%E2%80%90-Minhoc%C3%A3o"> Desenvolvimento da Fase do Minhocão </a> </li>
 </ul>
