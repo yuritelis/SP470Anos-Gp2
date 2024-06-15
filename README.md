@@ -5,7 +5,7 @@
     <li> Gustavo Henrique Moraes Rocillo e Yuri Telis Garcia </li>
 </ul>
 
-## Produção das Fases Original
+## Produção das Fases
 <ul>
     <li> <b> Fase Memorial:</b> Gustavo e Yuri. </li>
     <li> <b> Fase Baixo Augusta:</b> João Lucas e Filipe. </li>
@@ -19,10 +19,10 @@
 <li> Robert Caio Gomes Mota e Yuri Telis Garcia </li>
 </ul>
 
-## Produção das Fases Original
+## Produção das Fases
 <ul>
-    <li> <b> Fase Memorial: </b> João Lucas e Gabriele. </li>
-    <li> <b> Fase Baixo Augusta: </b> Robert e Yuri. </li>
+    <li> <b> Fase Memorial: </b> A Definir... </li>
+    <li> <b> Fase Baixo Augusta: </b> A Definir... </li>
     <li> <b> Fase Estrada Velha de Santos: </b> João Lucas e Gabriele. </li>
     <li> <b> Fase Minhocão: </b> Robert e Yuri. </li>
 </ul>
