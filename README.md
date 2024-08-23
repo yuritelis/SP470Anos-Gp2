@@ -21,10 +21,20 @@
 
 ## Produção das Fases
 <ul>
-    <li> <b> Fase Memorial: </b> A Definir... </li>
-    <li> <b> Fase Baixo Augusta: </b> A Definir... </li>
     <li> <b> Fase Estrada Velha de Santos: </b> João Lucas e Gabriele. </li>
     <li> <b> Fase Minhocão: </b> Robert e Yuri. </li>
+</ul>
+
+## Duplas - 3° Bimestre
+<ul>
+    <li> Yuri Telis Garcia e Gabriele Batista Sousa </li>
+    <li> Robert Caio Gomes Mota e Filipe Custodio Gonçalves </li>
+</ul>
+
+## Produção das Fases
+<ul>
+    <li> <b> Fase Memorial: </b> Yuri e Gabriele </li>
+    <li> <b> Fase Baixo Augusta: </b> Robert e Filipe </li>
 </ul>
 
 ## Wiki
