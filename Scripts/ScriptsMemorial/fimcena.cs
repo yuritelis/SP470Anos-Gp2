@@ -14,7 +14,7 @@ public class fimcena : MonoBehaviour
     {
         if (livro == null && livro2 == null && livro3 == null && placa == null && btv == null)
         {
-            SceneManager.LoadScene("gameover");
+            SceneManager.LoadScene("augusta");
             Cursor.visible = true;
             Cursor.lockState = CursorLockMode.None;
         }
