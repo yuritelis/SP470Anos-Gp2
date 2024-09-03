@@ -21,10 +21,20 @@
 
 ## Produção das Fases
 <ul>
-    <li> <b> Fase Memorial: </b> A Definir... </li>
-    <li> <b> Fase Baixo Augusta: </b> A Definir... </li>
     <li> <b> Fase Estrada Velha de Santos: </b> João Lucas e Gabriele. </li>
     <li> <b> Fase Minhocão: </b> Robert e Yuri. </li>
+</ul>
+
+## Duplas - 3° Bimestre
+<ul>
+    <li> Yuri Telis Garcia e Gabriele Batista Sousa </li>
+    <li> Robert Caio Gomes Mota e Filipe Custodio Gonçalves </li>
+</ul>
+
+## Produção das Fases
+<ul>
+    <li> <b> Fase Memorial: </b> Yuri e Gabriele </li>
+    <li> <b> Fase Baixo Augusta: </b> Robert e Filipe </li>
 </ul>
 
 ## Wiki
@@ -38,6 +48,7 @@
     <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Refer%C3%AAncias"> Referências </a> </li>
     <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Concept-art-‐-Cenarios"> Concept Arts Cenario </a> </li>
     <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Concept-Arts-‐-personagens"> Concept Arts personagens</a> </li>
+    <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Desenvolvimento-Fase-1-%E2%80%90-Memorial-da-Am%C3%A9rica-Latina"> Desenvolvimento da Fase do Memorial da América Latina </a>
     <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Desenvolvimento-Fase-3-%E2%80%90-Minhoc%C3%A3o"> Desenvolvimento da Fase do Minhocão </a> </li>
     <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Desenvolvimento-fase-4-%E2%80%90-estrada-velha-de-santos"> Desenvolvimento da Fase da Estrada Velha de Santos </a> </li>
 </ul>
