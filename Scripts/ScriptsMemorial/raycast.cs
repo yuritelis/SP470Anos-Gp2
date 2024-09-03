@@ -53,6 +53,11 @@ public class raycast : MonoBehaviour
                 Destroy(hitObject);
                 livrosPegos++;
             }
+            if (tag == "livro4")
+            {
+                Destroy(hitObject);
+                livrosPegos++;
+            }
             livrosText.text = "- Pegar " + livrosPegos.ToString() + "/3 livros";
         }
         else

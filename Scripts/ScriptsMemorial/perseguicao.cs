@@ -34,7 +34,7 @@ public class perseguicao : MonoBehaviour
             if (tempoLigado)
             {
                 tempo -= Time.deltaTime;
-                tempoText.text=tempo.ToString("F2");
+                tempoText.text = tempo.ToString("F2");
                 if (tempo < 0)
                 {
                     SceneManager.LoadScene("gameover");
