@@ -34,7 +34,7 @@ public class raycast : MonoBehaviour
             Debug.Log("Tag:" + tag);
             GameObject hitObject = hitData.transform.gameObject;
 
-            if (tag == "placa" || tag == "btv")
+            if (tag == "btv")
             {
                 Destroy(hitObject);
             }

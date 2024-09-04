@@ -4,6 +4,7 @@ using UnityEngine.SceneManagement;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using System.Numerics;
 
 public class perseguicao : MonoBehaviour
 {
@@ -13,17 +14,21 @@ public class perseguicao : MonoBehaviour
     public bool tempoLigado;
     public TextMeshProUGUI tempoText;
 
+    private void OnCollisionExit(Collision collision)
+    {
+        Destroy(placa);
+    }
     void Start()
     {
+        lobo = GameObject.FindGameObjectWithTag("inimigo");
+        placa = GameObject.Find("placa");
+
         tempoLigado = false;
         tempo = 20;
     }
 
     void Update()
     {
-        lobo = GameObject.FindGameObjectWithTag("inimigo");
-        placa = GameObject.Find("placa");
-
         if (placa == null)
         {
             tempoLigado = true;
