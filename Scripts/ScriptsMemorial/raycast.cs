@@ -1,7 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Numerics;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using Vector3 = UnityEngine.Vector3;
+
+
 
 public class raycast : MonoBehaviour
 {
@@ -11,9 +16,11 @@ public class raycast : MonoBehaviour
     public Camera _camera;
     public int livrosPegos;
     public TextMeshProUGUI livrosText;
+    
+
     void Start()
     {
-
+        
     }
 
     private void Lancar(Ray ray)

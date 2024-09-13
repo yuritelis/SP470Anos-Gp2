@@ -9,22 +9,24 @@ public class fimcena : MonoBehaviour
     public GameObject livro2;
     public GameObject livro3;
     public GameObject btv;
-    public GameObject placa;
+    public GameObject lobos;
+
     private void OnCollisionEnter(Collision collision)
     {
-        if (livro == null && livro2 == null && livro3 == null && placa == null && btv == null)
+        if (livro == null && livro2 == null && livro3 == null && btv == null && lobos == null)
         {
             SceneManager.LoadScene("augusta");
             Cursor.visible = true;
             Cursor.lockState = CursorLockMode.None;
+            Debug.Log("mudou cena");
         }
     }
     void Start()
     {
         livro = GameObject.Find("livro");
-        livro2 = GameObject.Find("livro2");
-        livro3 = GameObject.Find("livro3");
-        btv = GameObject.FindGameObjectWithTag("btv");
-        placa = GameObject.Find("placa");
+        livro2 = GameObject.Find("livro 2");
+        livro3 = GameObject.Find("livro 3");
+        btv = GameObject.Find("bemtevi2 (1)");
+        lobos = GameObject.Find("lobos guara");
     }
 }

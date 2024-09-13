@@ -8,7 +8,7 @@ public class abrirporta : MonoBehaviour
     public GameObject livro;
     public GameObject livro2;
     public GameObject livro3;
-    public GameObject placa;
+    public GameObject lobos;
     public bool pegouLivro = false;
 
     // Start is called before the first frame update
@@ -23,9 +23,9 @@ public class abrirporta : MonoBehaviour
         livro = GameObject.Find("livro");
         livro2 = GameObject.Find("livro 2");
         livro3 = GameObject.Find("livro 3");
-        placa = GameObject.Find("placa");
+        lobos = GameObject.Find("lobos guara");
 
-        if (livro == null && livro2 == null && livro3 == null && placa == null)
+        if (livro == null && livro2 == null && livro3 == null && lobos == null)
         {
             rb.AddForce(transform.forward * -15f);
         }
