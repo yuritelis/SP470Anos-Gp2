@@ -52,5 +52,5 @@
     <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Desenvolvimento-Fase-2-‐-Augusta"> Desenvolvimento da Fase Augusta</a></li>
     <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Desenvolvimento-Fase-3-%E2%80%90-Minhoc%C3%A3o"> Desenvolvimento da Fase do Minhocão </a> </li>
     <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Desenvolvimento-fase-4-%E2%80%90-estrada-velha-de-santos"> Desenvolvimento da Fase da Estrada Velha de Santos </a> </li>
-    <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Desenvolvimento-Fase-5-‐-Palácio-Horto-Florestal"> Desenvolvimento dda Fase final Palacio Horto florestal </a> </li>
+    <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Desenvolvimento-Fase-5-‐-Palácio-Horto-Florestal"> Desenvolvimento da Fase final Palacio Horto florestal </a> </li>
 </ul>
