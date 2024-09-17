@@ -49,6 +49,7 @@
     <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Concept-art-‐-Cenarios"> Concept Arts Cenario </a> </li>
     <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Concept-Arts-‐-personagens"> Concept Arts personagens</a> </li>
     <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Desenvolvimento-Fase-1-%E2%80%90-Memorial-da-Am%C3%A9rica-Latina"> Desenvolvimento da Fase do Memorial da América Latina </a>
+    <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Desenvolvimento-Fase-2-‐-Augusta"> Desenvolvimento da Fase Augusta</a></li>
     <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Desenvolvimento-Fase-3-%E2%80%90-Minhoc%C3%A3o"> Desenvolvimento da Fase do Minhocão </a> </li>
     <li> <a href="https://github.com/yuritelis/SP470Anos-Gp2/wiki/Desenvolvimento-fase-4-%E2%80%90-estrada-velha-de-santos"> Desenvolvimento da Fase da Estrada Velha de Santos </a> </li>
 </ul>
